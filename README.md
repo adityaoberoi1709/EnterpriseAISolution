@@ -1,4 +1,4 @@
-# Enterprise AI Solution
+# GraphAgentix
 
 A production-grade Hybrid GraphRAG platform combining FAISS vector search, Neo4j knowledge graphs, LangGraph agents, and RAGAS evaluation.
 
