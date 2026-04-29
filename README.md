@@ -37,7 +37,7 @@ config/
 
 ```bash
 # Clone / unzip the project
-cd EnterpriseAISolution
+cd GraphAgentix
 
 # Create virtual environment
 python -m venv venv
